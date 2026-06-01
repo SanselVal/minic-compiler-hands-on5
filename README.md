@@ -1,6 +1,7 @@
 # MiniC Analyzer - Hands-on 5
 
 **Autor:** José Antonio Aviña Méndez
+**Estudiante:** Uriel Valentin Sánchez Nava
 
 ## Mejoras implementadas
 
